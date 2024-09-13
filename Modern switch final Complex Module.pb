@@ -13,7 +13,7 @@
 ;|  Processor        : x86, x64
 ;|
 ;|  API							 : No api used
-;|
+;| If you like this code, you can send me a tip on https://paypal.me/jvialebz
 ;|-------------------------------------------------------------------------------------------------
 ;|
 ;|  Description      : Module Switch Gadget with a "modern" style + Tab key, Space key and focus
